@@ -1,1 +1,0 @@
-# manipula-o_de_dom
